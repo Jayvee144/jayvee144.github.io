@@ -338,6 +338,7 @@ footer h3 {
 .icon {
     color: black;
 }
+
 @media screen and (min-width: 992px){
     .about-wrapper{
         display: grid;
